@@ -1,2 +1,5 @@
-opencv-python-headless
-mediapipe
+opencv-python==4.5.3
+mediapipe==0.8.6
+numpy==1.19.5
+matplotlib==3.4.3
+streamlit==0.88.0
