@@ -1,4 +1,4 @@
-opencv-python-headless
+opencv-python
 mediapipe==0.8.7.3
 numpy
 matplotlib==3.4.3
