@@ -1,5 +1,5 @@
-opencv-python==4.5.3
+opencv-python
 mediapipe==0.8.6
-numpy==1.19.5
+numpy
 matplotlib==3.4.3
-streamlit==0.88.0
+streamlit==1.0.0
